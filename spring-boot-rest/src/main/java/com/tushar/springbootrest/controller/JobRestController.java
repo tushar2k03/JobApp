@@ -1,7 +1,7 @@
-package com.tushar.spring_boot_rest.controller;
+package com.tushar.springbootrest.controller;
 
-import com.tushar.spring_boot_rest.model.JobPost;
-import com.tushar.spring_boot_rest.service.JobService;
+import com.tushar.springbootrest.model.JobPost;
+import com.tushar.springbootrest.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

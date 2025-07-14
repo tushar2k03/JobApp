@@ -1,14 +1,13 @@
-package com.tushar.spring_boot_rest.service;
+package com.tushar.springbootrest.service;
 
-import com.tushar.spring_boot_rest.model.JobPost;
-import com.tushar.spring_boot_rest.repo.JobRepo;
+import com.tushar.springbootrest.model.JobPost;
+import com.tushar.springbootrest.repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class JobService {

@@ -1,4 +1,4 @@
-package com.tushar.spring_boot_rest.model;
+package com.tushar.springbootrest.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 

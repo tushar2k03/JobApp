@@ -1,4 +1,4 @@
-package com.tushar.spring_boot_rest;
+package com.tushar.springbootrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
